@@ -7,8 +7,8 @@
 const hre = require("hardhat");
 
 async function main() {
-  const name = "PPRINCE";
-  const symbol = "PRINCE";
+  const name = "";
+  const symbol = "";
   const tokenDecimals = 6; 
   // input your address here 
   const manager = ""
