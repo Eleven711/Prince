@@ -1,1 +1,2 @@
-# Pioneer
+# PRINCE
+PRINCE Tokens are offered by Storefront Project T SP, a segregated portfolio of the Pioneer Global Assets Tokenized Fund SPC. The portfolio will invest in the Target Property located in a core tourism district in Kowloon, Hong Kong. Each PRINCE Token will entitle its Tokenholder to receive pro rata distributions as set out in the respective offering documents. 
