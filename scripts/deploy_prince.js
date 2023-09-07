@@ -9,7 +9,7 @@ const hre = require("hardhat");
 async function main() {
   const name = "";
   const symbol = "";
-  const tokenDecimals = 6; 
+  const tokenDecimals = 4; 
   // input your address here 
   const manager = ""
   const owner = ""

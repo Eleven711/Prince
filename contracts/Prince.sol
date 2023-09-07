@@ -13,7 +13,7 @@ import "./Whitelistable.sol";
 contract Prince is Ownable, ERC20, Whitelistable {
     //using SafeMath for uint256;
 
-    uint256 private constant TOTAL_SUPPLY_MAX = 950000000000;
+    uint256 private constant TOTAL_SUPPLY_MAX = 9500000000;
     address private _manager;
     bool private _paused;
     uint8 private immutable _decimals;
