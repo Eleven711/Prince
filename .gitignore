@@ -1,0 +1,18 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+scripts/arguments.js
+scripts/deploy.js
+contracts/Lock.sol
+test/lock.test.js
+test/Lock.js
+yarn-error.log
+config.js
+
+# Hardhat files
+cache
+artifacts
+
